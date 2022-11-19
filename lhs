@@ -1,7 +1,3 @@
-sudo nano /etc/systemd/system/lighthousebeacon.service
-
-
-
 [Unit]
 Description=Lighthouse Beacon Node
 After=network.target
